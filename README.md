@@ -7,7 +7,8 @@ Ce projet vous accompagne jour après jour dans la réalisation d'un montage él
 ---
 
 ## Aide à la soudure et explication composants 
-Le projet Gigatron propose un petit fascicule qui est très bien fait. Vous trouverez le PDF dans cette page 
+Le projet Gigatron propose un petit fascicule qui est très bien fait. Vous trouverez le PDF sur ce lien  [aide montage](https://e.pcloud.link/publink/show?code=XZwW9AZLsJ7u0RAY2hPdGbyKz66uFti7Atk)
+
 
 ## Vidéos quotidiennes
 
