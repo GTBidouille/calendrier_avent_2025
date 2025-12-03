@@ -24,7 +24,7 @@ Tous les jours, vous aurez accès à une nouvelle vidéo pour vous guider dans l
 | Jour 1 | 1er décembre | [0112.mp4](https://e.pcloud.link/publink/show?code=XZArnAZ6U8SdHKg6yQ1SPrSDVQTzJguY3MV) |
 | Jour 2 | 2 décembre | [0212.mp4](https://e.pcloud.link/publink/show?code=XZ2sTAZah38ncrXDxjElGgU8uV2LpqPTBYk) |
 | Jour 3 | 3 décembre | [0312.mp4](https://e.pcloud.link/publink/show?code=XZ7APAZiIAS1RSta254lDx29UlrK8bFsFvX) |
-| Jour 4 | 4 décembre | À venir |
+| Jour 4 | 4 décembre | [0412.mp4](https://e.pcloud.link/publink/show?code=XZFAPAZWSBa6YFbuak4wNND3bUUh0pT6FXy) |
 | Jour 5 | 5 décembre | À venir |
 | Jour 6 | 6 décembre | À venir |
 | Jour 7 | 7 décembre | À venir |
