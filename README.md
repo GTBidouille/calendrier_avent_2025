@@ -31,7 +31,7 @@ Tous les jours, vous aurez accès à une nouvelle vidéo pour vous guider dans l
 | Jour 8 | 8 décembre | [0812.mp4](https://e.pcloud.link/publink/show?code=XZuAPAZ2YQwlYrjmz4TTuhdSNyhFXkVnp4X) |
 | Jour 9 | 9 décembre | [0912.mp4](https://e.pcloud.link/publink/show?code=XZMAPAZYalPW1vrcipKC6wMxKv8OL31fQNk) |
 | Jour 10 | 10 décembre | [1012.mp4](https://e.pcloud.link/publink/show?code=XZgAPAZvOKUjUSoWuhnsPh0YKqWkfdlx0bk) |
-| Jour 11 | 11 décembre | À venir |
+| Jour 11 | 11 décembre | vous aurez la vidéo le 21 decembre :) |
 | Jour 12 | 12 décembre | À venir |
 | Jour 13 | 13 décembre | À venir |
 | Jour 14 | 14 décembre | À venir |
