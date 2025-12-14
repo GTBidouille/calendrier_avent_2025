@@ -35,7 +35,7 @@ Tous les jours, vous aurez accès à une nouvelle vidéo pour vous guider dans l
 | Jour 12 | 12 décembre | [1212.mp4](https://e.pcloud.link/publink/show?code=XZwAPAZK9QFn1YAvn4lFwydsd4SH0Iv682k) |
 | Jour 13 | 13 décembre | [1312.mp4](https://e.pcloud.link/publink/show?code=XZlAPAZMEE8PTcAxip6Xr2eaFUgcQtMiIU7) |
 | Jour 14 | 14 décembre | [1412.mp4](https://e.pcloud.link/publink/show?code=XZqAPAZdMgL0VCKkS5tr2jbEKV8ljdJ8Duk) |
-| Jour 15 | 15 décembre | À venir |
+| Jour 15 | 15 décembre | [1512.mp4](https://e.pcloud.link/publink/show?code=XZEAPAZc6NEoOKNkQBzlRSBrWE9DSK0S5KX) |
 | Jour 16 | 16 décembre | À venir |
 | Jour 17 | 17 décembre | À venir |
 | Jour 18 | 18 décembre | À venir |
