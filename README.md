@@ -40,11 +40,24 @@ Tous les jours, vous aurez accès à une nouvelle vidéo pour vous guider dans l
 | Jour 17 | 17 décembre | [1712.mp4](https://e.pcloud.link/publink/show?code=XZ3APAZUDWxyLvRcCfp0WTeyqmfVV4w6xV7) |
 | Jour 18 | 18 décembre | [1812.mp4](https://e.pcloud.link/publink/show?code=XZvAPAZruqnDqz4pf0qbeez5VDTPJhRiKnV) |
 | Jour 19 | 19 décembre | [1912.mp4](https://e.pcloud.link/publink/show?code=XZrAPAZOUXTBdARqNJEERlTj0BkzpEV7Y5k) |
-| Jour 20 | 20 décembre | [2012.mp4](https://e.pcloud.link/publink/show?code=XZoAPAZEGrrEt68CH4OiSEMeBwEUzFp2VaV) |
+| Jour 20 | 20 décembre | [2012.mp4](https://e.pcloud.link/publink/show?code=XZoAPAZEGrrEt68CH4OiSEMeBwEUzFp2VaV), [précisions](https://e.pcloud.link/publink/show?code=XZ7UQNZXJk8GPggbvfuNEmfwDX6sBe1JES7) |
 | Jour 21 | 21 décembre | À venir |
 | Jour 22 | 22 décembre | À venir |
 | Jour 23 | 23 décembre | À venir |
 | Jour 24 | 24 décembre | À venir |
+
+
+## Photos de cablage du module mystère :)
+
+### montage/soudure du module 
+![soudure](./images/cablage.jpg)
+### shunt au niveau du PCB
+![shunt](./images/shunt.jpg)
+### fils à souder 
+![fils](./images/fils.jpg)
+### ou un bouton poussoir 
+![bp](./images/switch.jpg)
+
 
 ---
 
@@ -59,8 +72,6 @@ Dans le dossier [`role_composants/`](role_composants/), vous trouverez :
 - Les instructions de placement
 - Les spécifications techniques
 
-### Vidéos
-Le dossier [`videos/`](videos/) regroupe toutes les vidéos du calendrier.
 
 ---
 
