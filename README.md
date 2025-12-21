@@ -41,8 +41,8 @@ Tous les jours, vous aurez accès à une nouvelle vidéo pour vous guider dans l
 | Jour 18 | 18 décembre | [1812.mp4](https://e.pcloud.link/publink/show?code=XZvAPAZruqnDqz4pf0qbeez5VDTPJhRiKnV) |
 | Jour 19 | 19 décembre | [1912.mp4](https://e.pcloud.link/publink/show?code=XZrAPAZOUXTBdARqNJEERlTj0BkzpEV7Y5k) |
 | Jour 20 | 20 décembre | [2012.mp4](https://e.pcloud.link/publink/show?code=XZoAPAZEGrrEt68CH4OiSEMeBwEUzFp2VaV), [précisions](https://e.pcloud.link/publink/show?code=XZ7UQNZXJk8GPggbvfuNEmfwDX6sBe1JES7) |
-| Jour 21 | 21 décembre | [2112.mp4](https://e.pcloud.link/publink/show?code=XZXNPAZ5CKjqmN454XXG59QpfbYz5nLqkIk) et [1112.mp4](https://e.pcloud.link/publink/show?code=XZCAPAZMHkfFcpSwPHigPWztFENYRqex3v7) |
-| Jour 22 | 22 décembre | À venir |
+| Jour 21 | 21 décembre | [2112.mp4](https://e.pcloud.link/publink/show?code=XZXNPAZ5CKjqmN454XXG59QpfbYz5nLqkIk) |
+| Jour 22 | 22 décembre | [2212.mp4](https://e.pcloud.link/publink/show?code=XZVNPAZmSzk1uEsXLROQEPwBMEGxRqAIEjX) |
 | Jour 23 | 23 décembre | À venir |
 | Jour 24 | 24 décembre | À venir |
 
