@@ -43,7 +43,7 @@ Tous les jours, vous aurez accès à une nouvelle vidéo pour vous guider dans l
 | Jour 20 | 20 décembre | [2012.mp4](https://e.pcloud.link/publink/show?code=XZoAPAZEGrrEt68CH4OiSEMeBwEUzFp2VaV), [précisions](https://e.pcloud.link/publink/show?code=XZ7UQNZXJk8GPggbvfuNEmfwDX6sBe1JES7) |
 | Jour 21 | 21 décembre | [2112.mp4](https://e.pcloud.link/publink/show?code=XZXNPAZ5CKjqmN454XXG59QpfbYz5nLqkIk) |
 | Jour 22 | 22 décembre | [2212.mp4](https://e.pcloud.link/publink/show?code=XZVNPAZmSzk1uEsXLROQEPwBMEGxRqAIEjX) |
-| Jour 23 | 23 décembre | À venir |
+| Jour 23 | 23 décembre | [2312.mp4](https://e.pcloud.link/publink/show?code=XZJNPAZuxjbK7iQXPHgNUIRULAeoQiOK1V7) |
 | Jour 24 | 24 décembre | À venir |
 
 
