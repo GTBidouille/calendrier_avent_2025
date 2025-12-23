@@ -44,7 +44,7 @@ Tous les jours, vous aurez accès à une nouvelle vidéo pour vous guider dans l
 | Jour 21 | 21 décembre | [2112.mp4](https://e.pcloud.link/publink/show?code=XZXNPAZ5CKjqmN454XXG59QpfbYz5nLqkIk) |
 | Jour 22 | 22 décembre | [2212.mp4](https://e.pcloud.link/publink/show?code=XZVNPAZmSzk1uEsXLROQEPwBMEGxRqAIEjX) |
 | Jour 23 | 23 décembre | [2312.mp4](https://e.pcloud.link/publink/show?code=XZJNPAZuxjbK7iQXPHgNUIRULAeoQiOK1V7) |
-| Jour 24 | 24 décembre | À venir |
+| Jour 24 | 24 décembre | [2412.mp4](https://e.pcloud.link/publink/show?code=XZArnAZ6U8SdHKg6yQ1SPrSDVQTzJguY3MV), [allumage](https://e.pcloud.link/publink/show?code=XZqEQNZEYWcBh0ISmF3tqyyH3hCLfDe3GCV), [derrière le calendrier](https://e.pcloud.link/publink/show?code=XZqUQNZbGKLuVbtr2LMTM7M36UOLjmrsmyy) et [avec un bouton poussoir](https://e.pcloud.link/publink/show?code=XZdUQNZaUzsTWT9miSn81rBVdG1FzIASAfy)  |
 
 
 ## Photos de cablage du module mystère :)
@@ -70,7 +70,6 @@ Dans le dossier [`role_composants/`](role_composants/), vous trouverez :
 - Des informations détaillées sur chaque composant
 - Les instructions de placement
 - Les spécifications techniques
-
 
 ---
 
