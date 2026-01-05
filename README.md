@@ -99,6 +99,15 @@ N'hésitez pas à me solliciter si vous avez des questions ou rencontrez des dif
 4. Suivez les vidéos jour après jour
 5. Amusez-vous bien ! 
 
+## au final 
+Au final vous devriez avoir quelque chose comme cela 
+
+<video controls src="images/VID_20251230_180406.mp4" title="Title"></video>
+
+et en image ( merci Miizix)
+![alt text](images/PXL_20251224_070141828.jpg)
+
+
 ---
 
-**Bon montage à tous ! ** 
+**Bon montage à tous !** 
